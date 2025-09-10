@@ -1,4 +1,4 @@
-Vendor Performance Data Analysis
+**Vendor Performance Data Analysis**
 This project analyzes vendor performance in the retail and wholesale sector using Python-based data analysis and an interactive Power BI dashboard. The goal is to uncover inefficiencies in pricing, supplier dependency, inventory management, and profitability, and to provide data-driven recommendations that improve business outcomes.
 
 ✅ Problems Solved
