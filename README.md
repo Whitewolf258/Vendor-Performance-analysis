@@ -67,7 +67,7 @@ Vendor-Performance-Analysis/
 
 📑 Getting Started
 Clone Repository
-git clone https://github.com/your-username/vendor-performance-analysis.git
+git clone https://github.com/Whitewolf158/vendor-performance-analysis.git
 cd vendor-performance-analysis
 
 Install Requirements
